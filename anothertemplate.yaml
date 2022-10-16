@@ -1,0 +1,8 @@
+namespace: yourname1
+
+app:
+    defines: runnable
+    version: 0.0.1
+    containers:
+        app:
+            image: yourname/tutorial:latest
