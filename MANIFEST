@@ -1,3 +1,4 @@
 REPO somename
 LOAD template1.yaml
 LOAD anothertemplate.yaml
+LOAD pkg/onemoretemplate.yaml
